@@ -1,0 +1,66 @@
+body {
+    border-style: solid;
+    border-color: black;
+    height: fit-content;
+    width: fit-content;
+    margin: 2px;
+    padding: 2px;
+}
+
+header {
+    border-style: solid;
+    border-color: palevioletred;
+    height: 50px;
+    width: 1800px;
+    margin: 2px;
+    padding: 2px;
+}
+
+main {
+    border-style: solid;
+    border-color: red;
+    height: fit-content;
+    width: 1800px;
+    overflow: auto;
+    margin: 2px;
+    padding: 2px;
+}
+
+nav {
+    border-style: solid;
+    border-color: blue;
+    height: 1000px;
+    width: 200px;
+    float: left;
+    margin: 2px;
+    padding: 2px;
+}
+
+article {
+    border-style: solid;
+    border-color: darkgreen;
+    height: 1000px;
+    width: 1360px;
+    float: left;
+    margin: 2px;
+    padding: 2px;
+}
+
+aside {
+    border-style: solid;
+    border-color: yellow;
+    height: 1000px;
+    width: 200px;
+    float: left;
+    margin: 2px;
+    padding: 2px;
+}
+
+footer {
+    border-style: solid;
+    border-color: purple;
+    height: 100px;
+    width: 1800px;
+    margin: 2px;
+    padding: 2px;
+}

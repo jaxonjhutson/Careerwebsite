@@ -5,7 +5,7 @@ body {
     width: fit-content;
     margin: 2px;
     padding: 2px;
-    background-image: ;
+    color: #ffffff;
 }
 
 header {
@@ -56,6 +56,7 @@ aside {
     margin: 2px;
     padding: 2px;
     background-color: #f4e285;
+    color: #000000;
 }
 
 footer {
@@ -68,7 +69,25 @@ footer {
     background-color: #f4a259;
 }
 
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+a:active {
+    font-weight: bold;
+    font-size: 10pt;
+}
+
 .title {
     text-align: center;
     position: relative; bottom: 15px; right: 0px;
+}
+
+.resumelink {
+    text-decoration: underline;
 }

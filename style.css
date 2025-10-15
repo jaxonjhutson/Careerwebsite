@@ -16,6 +16,7 @@ header {
     margin: 2px;
     padding: 2px;
     background-color: #bc4b51;
+    overflow: hidden;
 }
 
 main {
@@ -90,10 +91,24 @@ a:active {
 }
 
 .title {
-    text-align: center;
-    position: relative; bottom: 15px; right: 0px;
+    float: left;
+    position: relative; bottom: 15px;
 }
 
 .resumelink {
     text-decoration: underline;
+}
+
+.titlebannerleft {
+    height: 50px;
+    float: left;
+}
+
+.titlebannerright {
+    height: 50px;
+    float: left;
+}
+
+.titlediv {
+    margin-left: 550px;
 }

@@ -92,6 +92,8 @@ a:active {
 
 .title {
     float: left;
+    margin-left: 5%;
+    margin-right: 5%;
     position: relative; bottom: 15px;
 }
 
@@ -100,15 +102,15 @@ a:active {
 }
 
 .titlebannerleft {
-    height: 50px;
+    height: 100%;
     float: left;
 }
 
 .titlebannerright {
-    height: 50px;
+    height: 100%;
     float: left;
 }
 
 .titlediv {
-    margin-left: 550px;
+    position: relative; left: 25%;
 }

@@ -114,3 +114,21 @@ a:active {
 .titlediv {
     position: relative; left: 25%;
 }
+
+.kindoffunnyportrait {
+    position: relative; left: 12.5%;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.portraitdisclaim {
+    position: relative; left: 12.5%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.misctext {
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-top: 10px;
+}

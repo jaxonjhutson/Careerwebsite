@@ -22,7 +22,7 @@ header {
 main {
     border-style: none;
     border-color: red;
-    overflow: auto;
+    overflow: hidden;
     margin: 3px;
 }
 
